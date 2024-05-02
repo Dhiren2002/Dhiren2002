@@ -2,7 +2,7 @@
 - 👀 I’m interested in life
 - 🌱 I’m currently learning nothing and everything
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me (you cant...)
+- 📫 puridhiren@gmail.om
 
 <!---
 Dhiren2002/Dhiren2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
